@@ -1,2 +1,2 @@
-# issue-tracking
+# Issue Tracking
 Repo for tracking issues.
